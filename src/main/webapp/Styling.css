@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+h1 {
+    text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	color: red;
+	text-align: center;
+}
+
